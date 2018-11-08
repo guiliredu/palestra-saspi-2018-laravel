@@ -1,5 +1,7 @@
 # Palestra SASPI - Laravel
 
+Arquivos e docs apresentados na Semana Acadêmica do TSI - IFSUL
+
 - Apresentação: https://slides.com/guiliredu/laravel-saspi/live
 - Documentação Laravel: https://laravel.com/docs/5.7
 
